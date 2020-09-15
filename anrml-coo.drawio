@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T10:44:55.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="eH_rM_7trGIs0mmjfChE" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T10:46:24.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="e9ymWwyfw3z2bD5I1pvY" version="13.6.10" type="github">
   <diagram id="7EyB4oHwacRofvkvfnk_" name="Page-1">
     <mxGraphModel dx="1339" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -438,6 +438,9 @@
         <mxCell id="KW8Jv8WY7oKA2TOhEye8-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KW8Jv8WY7oKA2TOhEye8-100" target="KW8Jv8WY7oKA2TOhEye8-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KW8Jv8WY7oKA2TOhEye8-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KW8Jv8WY7oKA2TOhEye8-100" target="KW8Jv8WY7oKA2TOhEye8-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KW8Jv8WY7oKA2TOhEye8-100" value="DRI HOD&lt;br&gt;Operation In-charge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2290" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -530,6 +533,21 @@
         </mxCell>
         <mxCell id="KW8Jv8WY7oKA2TOhEye8-134" value="Semi Skilled-10" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3210" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KW8Jv8WY7oKA2TOhEye8-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KW8Jv8WY7oKA2TOhEye8-136" target="KW8Jv8WY7oKA2TOhEye8-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW8Jv8WY7oKA2TOhEye8-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KW8Jv8WY7oKA2TOhEye8-136" target="KW8Jv8WY7oKA2TOhEye8-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW8Jv8WY7oKA2TOhEye8-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KW8Jv8WY7oKA2TOhEye8-136" target="KW8Jv8WY7oKA2TOhEye8-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW8Jv8WY7oKA2TOhEye8-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KW8Jv8WY7oKA2TOhEye8-136" target="KW8Jv8WY7oKA2TOhEye8-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KW8Jv8WY7oKA2TOhEye8-136" value="Maintenance Incharge&lt;br&gt;Electrical&lt;br&gt;AGM/Sr.Mngr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
