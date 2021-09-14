@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T15:53:09.928Z" agent="5.0 (X11; CrOS x86_64 13982.88.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.162 Safari/537.36" etag="h0ESpTqJlVoS7JWKwFHg" version="15.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-14T15:55:03.888Z" agent="5.0 (X11; CrOS x86_64 13982.88.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.162 Safari/537.36" etag="BsRuIR2VbbjhJgGwV3Cs" version="15.2.5" type="github" pages="2">
   <diagram id="3ws7TwF3U3amYZibEbVT" name="Page-1">
     <mxGraphModel dx="1830" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-186" value="Quality Check" style="swimlane;horizontal=0;fontSize=11;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="1910" width="390" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-186" source="Ys0ninHCE1J-J9OSWRq_-187" target="Ys0ninHCE1J-J9OSWRq_-189" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-187" value="Sewers bring the finished items to PHF warehouse&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-186" vertex="1">
+          <mxGeometry x="48" y="15" width="132" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-189" value="Quality Check" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-186" vertex="1">
+          <mxGeometry x="48" y="74" width="132" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-210" value="Shipping" style="swimlane;horizontal=0;fontSize=11;startSize=23;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="2139" width="390" height="180" as="geometry" />
         </mxCell>
@@ -542,18 +554,6 @@
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="Ys0ninHCE1J-J9OSWRq_-168" target="Ys0ninHCE1J-J9OSWRq_-170" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-186" value="Quality Check" style="swimlane;horizontal=0;fontSize=11;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="1910" width="390" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-186" source="Ys0ninHCE1J-J9OSWRq_-187" target="Ys0ninHCE1J-J9OSWRq_-189" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-187" value="Sewers bring the finished items to PHF warehouse&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-186" vertex="1">
-          <mxGeometry x="48" y="15" width="132" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-189" value="Quality Check" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-186" vertex="1">
-          <mxGeometry x="48" y="74" width="132" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="Ys0ninHCE1J-J9OSWRq_-184" target="Ys0ninHCE1J-J9OSWRq_-168" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -589,39 +589,6 @@
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-232" value="After Sales" style="swimlane;horizontal=0;fontSize=11;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="-110" y="2372" width="410" height="375" as="geometry" />
         </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-234" value="Item Delivered" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
-          <mxGeometry x="48" y="15" width="132" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="90" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="113.99999999999977" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="150" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-266" value="Root cause analyzed and solution explored on case basis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
-          <mxGeometry x="40" y="288" width="310" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-263" value="Replacement can be provided by creating new outfit. In the meantime, Loaner can be provided to customer for the current item. This loaner item to be shipped back to PHF after use. New item will be provided once the new outfit is ready." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
-          <mxGeometry x="40" y="208" width="310" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-256" value="Customer to be informed that size measurement and selection was asked in customer scope. So no replacement/refund can be provided" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
-          <mxGeometry x="40" y="128" width="310" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-235" value="Customer contacted for confirmation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
-          <mxGeometry x="210" y="15" width="132" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" source="Ys0ninHCE1J-J9OSWRq_-234" target="Ys0ninHCE1J-J9OSWRq_-235" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-73" value="Production" style="swimlane;fontSize=11;gradientColor=#ffffff;strokeWidth=2;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
           <mxGeometry x="-20" y="-1350" width="430" height="1080" as="geometry">
             <mxRectangle x="-130" y="990" width="90" height="23" as="alternateBounds" />
@@ -653,6 +620,24 @@
         </mxCell>
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-184" value="Sewers take first sample to sew cut fabrics" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-166" vertex="1">
           <mxGeometry x="48" y="130" width="131.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-101" value="Inventory Analysis" style="swimlane;horizontal=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-73" vertex="1">
+          <mxGeometry x="20" y="168" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-101" source="Ys0ninHCE1J-J9OSWRq_-104" target="Ys0ninHCE1J-J9OSWRq_-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-101" source="Ys0ninHCE1J-J9OSWRq_-104" target="Ys0ninHCE1J-J9OSWRq_-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-104" value="Inventory check for order" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-101" vertex="1">
+          <mxGeometry x="40" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-106" value="Inventory not available" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-101" vertex="1">
+          <mxGeometry x="150" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-109" value="Inventory Available" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-101" vertex="1">
+          <mxGeometry x="150" y="60" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-74" value="Order Taking" style="swimlane;horizontal=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-73" vertex="1">
           <mxGeometry x="20" y="40" width="390" height="120" as="geometry" />
@@ -687,24 +672,6 @@
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-94" value="50% payment received" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-74" vertex="1">
           <mxGeometry x="260" y="60" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-101" value="Inventory Analysis" style="swimlane;horizontal=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-73" vertex="1">
-          <mxGeometry x="20" y="168" width="390" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-101" source="Ys0ninHCE1J-J9OSWRq_-104" target="Ys0ninHCE1J-J9OSWRq_-106" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-101" source="Ys0ninHCE1J-J9OSWRq_-104" target="Ys0ninHCE1J-J9OSWRq_-109" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-104" value="Inventory check for order" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-101" vertex="1">
-          <mxGeometry x="40" y="20" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-106" value="Inventory not available" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-101" vertex="1">
-          <mxGeometry x="150" y="20" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ys0ninHCE1J-J9OSWRq_-109" value="Inventory Available" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-101" vertex="1">
-          <mxGeometry x="150" y="60" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-131" value="Marker sheets available for sizes required" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-73" vertex="1">
           <mxGeometry x="150" y="334" width="130" height="50" as="geometry" />
         </mxCell>
@@ -715,13 +682,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-159" value="Cut fabric stacked together according to pattern and style" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-73" vertex="1">
-          <mxGeometry x="227" y="631" width="153" height="40" as="geometry" />
+          <mxGeometry x="227" y="604" width="153" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-201" value="Done by whoever receives the finished item" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-73" vertex="1">
           <mxGeometry x="240" y="962" width="132" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-202" value="Item Received" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-73" vertex="1">
           <mxGeometry x="240" y="1017" width="132" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-234" value="Item Delivered" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
+          <mxGeometry x="48" y="15" width="132" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="113.99999999999977" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-266" value="Root cause analyzed and solution explored on case basis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
+          <mxGeometry x="40" y="288" width="310" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-263" value="Replacement can be provided by creating new outfit. In the meantime, Loaner can be provided to customer for the current item. This loaner item to be shipped back to PHF after use. New item will be provided once the new outfit is ready." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
+          <mxGeometry x="40" y="208" width="310" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-256" value="Customer to be informed that size measurement and selection was asked in customer scope. So no replacement/refund can be provided" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
+          <mxGeometry x="40" y="128" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-235" value="Customer contacted for confirmation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
+          <mxGeometry x="210" y="15" width="132" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys0ninHCE1J-J9OSWRq_-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" source="Ys0ninHCE1J-J9OSWRq_-234" target="Ys0ninHCE1J-J9OSWRq_-235" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ys0ninHCE1J-J9OSWRq_-251" value="Issue analyzed" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="Ys0ninHCE1J-J9OSWRq_-232" vertex="1">
           <mxGeometry x="210" y="78" width="132" height="40" as="geometry" />
