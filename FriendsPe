@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T08:38:55.487Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="oHeyptNVmKW_R_ASLjE4" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T08:57:11.427Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="r_Jw9MSBt4DEG_CfIfAq" version="17.1.2" type="github">
   <diagram id="p-Id1sAHD7xjCrZlTzk4" name="Page-1">
     <mxGraphModel dx="702" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,6 +168,9 @@
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-58" target="QOYLMgDp1OK6-nLYUOhP-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-58" target="QOYLMgDp1OK6-nLYUOhP-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-58" value="Borrower accepts funds" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="840" width="80" height="80" as="geometry" />
         </mxCell>
@@ -185,6 +188,102 @@
         </mxCell>
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-66" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="920" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-67" target="QOYLMgDp1OK6-nLYUOhP-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-67" value="Lender notified that fund transfer successful" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="1060" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-69" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="890" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-70" target="QOYLMgDp1OK6-nLYUOhP-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-70" target="QOYLMgDp1OK6-nLYUOhP-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-70" value="Borrower calendar marked as payment due." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="1060" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-71" target="QOYLMgDp1OK6-nLYUOhP-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-71" value="Borrower/Lender Calendar marked on agreed upon payment due date and amount as principal + Interest rate as agreed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1140" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-74" target="QOYLMgDp1OK6-nLYUOhP-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-74" value="Lender calendar marked as funds due." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="1060" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-78" target="QOYLMgDp1OK6-nLYUOhP-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-78" value="Borrower gets notified 5 days before due date for payment due - App/SMS/Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1279" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-82" target="QOYLMgDp1OK6-nLYUOhP-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-82" target="QOYLMgDp1OK6-nLYUOhP-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-82" value="Borrower transfer funds on due date?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1269" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-84" value="Borrower reminded to pay through app/sms/email notifications everyday" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="1380" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-86" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507" y="1360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-87" target="QOYLMgDp1OK6-nLYUOhP-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-87" value="Interest Rate applied for more days. Late fee applied if agreed upon by parties" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1380" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-88" target="QOYLMgDp1OK6-nLYUOhP-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-88" target="QOYLMgDp1OK6-nLYUOhP-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-88" value="Borrower transfer funds late?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-90" target="QOYLMgDp1OK6-nLYUOhP-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-90" target="QOYLMgDp1OK6-nLYUOhP-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-90" target="QOYLMgDp1OK6-nLYUOhP-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-90" value="Lender gets credited with funds (Principal+Interest) in his wallet after deducting TDS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1490" width="151" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-93" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-94" value="Lender have option to withdraw funds or lend more" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1590" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-96" value="Lender gets issued a TDS certificate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="1590" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-98" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-101" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="154" y="1490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-102" value="Calendar entries marked as transaction complete on both borrower and lender side. With option to see transaction in detail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1590" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
