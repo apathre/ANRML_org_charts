@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T09:11:41.633Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="zYc0euzHsfETawEI4xXD" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T16:14:58.960Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="THnOElfEQb6Kq6xaxQYt" version="17.1.2" type="github">
   <diagram id="p-Id1sAHD7xjCrZlTzk4" name="Page-1">
     <mxGraphModel dx="702" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,6 +273,9 @@
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-93" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="1440" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-94" target="QOYLMgDp1OK6-nLYUOhP-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-94" value="Lender have option to withdraw funds or lend more" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="1590" width="130" height="60" as="geometry" />
         </mxCell>
@@ -303,7 +306,7 @@
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-110" target="QOYLMgDp1OK6-nLYUOhP-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QOYLMgDp1OK6-nLYUOhP-110" value="User fills KYC form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-110" value="User fills KYC form and submits documents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-112" target="QOYLMgDp1OK6-nLYUOhP-114">
@@ -348,11 +351,14 @@
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOYLMgDp1OK6-nLYUOhP-130" target="QOYLMgDp1OK6-nLYUOhP-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QOYLMgDp1OK6-nLYUOhP-130" value="User fills KYC form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-130" value="User fills KYC form and submits documents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-131" value="Lender onboarded" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOYLMgDp1OK6-nLYUOhP-132" value="Loan Closure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="1700" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
