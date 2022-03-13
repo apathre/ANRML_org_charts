@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T08:57:11.427Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="r_Jw9MSBt4DEG_CfIfAq" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T08:58:19.023Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="p44HTQ9EImd3tGP1lrB6" version="17.1.2" type="github">
   <diagram id="p-Id1sAHD7xjCrZlTzk4" name="Page-1">
     <mxGraphModel dx="702" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,10 +271,10 @@
           <mxGeometry x="570" y="1440" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-94" value="Lender have option to withdraw funds or lend more" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1590" width="130" height="60" as="geometry" />
+          <mxGeometry x="329" y="1590" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-96" value="Lender gets issued a TDS certificate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="401" y="1590" width="130" height="60" as="geometry" />
+          <mxGeometry x="475" y="1590" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-98" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="1490" width="40" height="20" as="geometry" />
@@ -283,7 +283,7 @@
           <mxGeometry x="154" y="1490" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QOYLMgDp1OK6-nLYUOhP-102" value="Calendar entries marked as transaction complete on both borrower and lender side. With option to see transaction in detail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="1590" width="130" height="100" as="geometry" />
+          <mxGeometry x="179" y="1590" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
