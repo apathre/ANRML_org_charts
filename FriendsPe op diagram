@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T05:41:53.974Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="N43m5Ei_2NXAlbvJEKlG" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T06:07:09.334Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="rAdeFGsH-3QvcNAXq2__" version="17.1.2" type="github">
   <diagram id="au4cowYmiRbYNYVeYltv" name="Page-1">
-    <mxGraphModel dx="663" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="754" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,30 @@
         </mxCell>
         <mxCell id="4eBFNCi8fXK5gb2UQzNd-16" value="Referral marketing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-7">
           <mxGeometry x="50" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-17" value="Software team" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="169" y="550" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-19" value="New feature Development" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-17">
+          <mxGeometry x="50" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-21" value="Bug Analysis" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-17">
+          <mxGeometry x="177" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-23" value="Programming" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-17">
+          <mxGeometry x="314" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-25" value="Accounts team" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="169" y="700" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-26" value="Accountant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-25">
+          <mxGeometry x="50" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-27" value="Reconciliation team" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-25">
+          <mxGeometry x="177" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-28" value="Tax team" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-25">
+          <mxGeometry x="314" y="20" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
