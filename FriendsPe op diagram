@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T17:03:45.965Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="YVJIuJib21TTYYY4LICy" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T17:04:43.503Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="wTtazz7KAZ_tn-gj46u7" version="17.1.2" type="github">
   <diagram id="au4cowYmiRbYNYVeYltv" name="Page-1">
-    <mxGraphModel dx="3103" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4009" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,6 +143,9 @@
         </mxCell>
         <mxCell id="4eBFNCi8fXK5gb2UQzNd-37" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Chief Executive Officer (CEO)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="1060" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8uvjzzZACakTRjxioSSg-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;FriendsPe Operational Diagram&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="570" width="1280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
