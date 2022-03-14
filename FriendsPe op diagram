@@ -1,14 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T19:43:34.906Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="FAyyNk_Si10fkofRzp2W" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T05:41:53.974Z" agent="5.0 (X11; CrOS x86_64 14388.61.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.107 Safari/537.36" etag="N43m5Ei_2NXAlbvJEKlG" version="17.1.2" type="github">
   <diagram id="au4cowYmiRbYNYVeYltv" name="Page-1">
-    <mxGraphModel dx="702" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="663" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aiP6v20tbdFsMrb53yRI-2" value="Loan Origination" style="swimlane;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="70" width="470" height="200" as="geometry" />
+        <mxCell id="aiP6v20tbdFsMrb53yRI-2" value="Loan Origination" style="swimlane;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="169" y="321" width="470" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="aiP6v20tbdFsMrb53yRI-3" value="Document Submission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aiP6v20tbdFsMrb53yRI-2">
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aiP6v20tbdFsMrb53yRI-2" source="aiP6v20tbdFsMrb53yRI-3" target="4eBFNCi8fXK5gb2UQzNd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiP6v20tbdFsMrb53yRI-3" value="Document Submission" style="rounded=0;whiteSpace=wrap;html=1;" parent="aiP6v20tbdFsMrb53yRI-2" vertex="1">
           <mxGeometry x="50" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aiP6v20tbdFsMrb53yRI-2" source="4eBFNCi8fXK5gb2UQzNd-1" target="4eBFNCi8fXK5gb2UQzNd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-1" value="CIBIL Score submission" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aiP6v20tbdFsMrb53yRI-2">
+          <mxGeometry x="177" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aiP6v20tbdFsMrb53yRI-2" source="4eBFNCi8fXK5gb2UQzNd-3" target="4eBFNCi8fXK5gb2UQzNd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-3" value="Document Verification" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aiP6v20tbdFsMrb53yRI-2">
+          <mxGeometry x="314" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-5" value="Client Onboarded" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aiP6v20tbdFsMrb53yRI-2">
+          <mxGeometry x="314" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-7" value="Marketing" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="169" y="60" width="470" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-9" value="Email Marketing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-7">
+          <mxGeometry x="50" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-11" value="Social Media Marketing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-7">
+          <mxGeometry x="177" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-13" value="Google Ads" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-7">
+          <mxGeometry x="314" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-14" value="Blog Marketing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-7">
+          <mxGeometry x="314" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-15" value="Linkedin Content Marketing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-7">
+          <mxGeometry x="177" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4eBFNCi8fXK5gb2UQzNd-16" value="Referral marketing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4eBFNCi8fXK5gb2UQzNd-7">
+          <mxGeometry x="50" y="110" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
