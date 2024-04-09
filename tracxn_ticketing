@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T15:21:45.395Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1WNBoi5Cxa1lJPWt7_UA" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T15:38:32.737Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WD-OZ4wUDHsM0mTCTB7D" version="24.2.2" type="github">
   <diagram id="wvIy3o11jSATrQHClTVA" name="Page-1">
     <mxGraphModel dx="954" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,11 +158,14 @@
         <mxCell id="saH_c4IF6_dliG0x3Uos-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="saH_c4IF6_dliG0x3Uos-56" target="saH_c4IF6_dliG0x3Uos-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0unxlMDR81cJA04CZSCM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="saH_c4IF6_dliG0x3Uos-56" target="17svAdozL-x9s9HIOt1u-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="saH_c4IF6_dliG0x3Uos-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Can Manager resolve query&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="461" y="910" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="saH_c4IF6_dliG0x3Uos-60" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Yes, send response within timeline&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="539" y="923" width="91" height="30" as="geometry" />
+        <mxCell id="saH_c4IF6_dliG0x3Uos-60" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Yes, send response within timeline to executive&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="539" y="923" width="131" height="30" as="geometry" />
         </mxCell>
         <mxCell id="saH_c4IF6_dliG0x3Uos-62" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="486" y="990" width="60" height="30" as="geometry" />
@@ -174,6 +177,9 @@
               <mxPoint x="800" y="443" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0unxlMDR81cJA04CZSCM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="saH_c4IF6_dliG0x3Uos-63" target="17svAdozL-x9s9HIOt1u-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="saH_c4IF6_dliG0x3Uos-63" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Escalated query to L3: AVP&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="441" y="1040" width="120" height="60" as="geometry" />
@@ -190,11 +196,17 @@
         <mxCell id="saH_c4IF6_dliG0x3Uos-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.626;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="17svAdozL-x9s9HIOt1u-1" target="saH_c4IF6_dliG0x3Uos-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="saH_c4IF6_dliG0x3Uos-71" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;send response within timeline&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1040" width="80" height="30" as="geometry" />
+        <mxCell id="saH_c4IF6_dliG0x3Uos-71" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;send response within timeline to executive&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1040" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0unxlMDR81cJA04CZSCM-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Yes, send request to customer&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Status: &quot;Waiting&quot;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="557" width="143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0unxlMDR81cJA04CZSCM-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;send response to customer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1040" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0unxlMDR81cJA04CZSCM-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Yes, send response to customer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="919" width="97" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
